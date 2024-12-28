@@ -1,0 +1,17 @@
+{
+  "conventionalCommits.scopes": [
+    "app",
+    "components",
+    "hooks",
+    "state",
+    "styles",
+    "config",
+    "deps",
+    "docs",
+    "test",
+    "build",
+    "vite",
+    "typescript",
+    "swc"
+  ]
+}
